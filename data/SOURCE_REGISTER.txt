@@ -1,1 +1,32 @@
 
+SOURCE / DESIGN BASIS REGISTER
+
+1. NASA-STD-5020B, Requirements for Threaded Fastening Systems in Spaceflight Hardware.
+   Active; revalidated 2026-01-05.
+   Used for: preload, bolt stiffness, joint stiffness, load sharing, separation concepts.
+   https://standards.nasa.gov/node/254
+
+2. Technetics Group Metal Seals Master Catalog.
+   Used for: metal-seal seating load + hydrostatic load concept and warning that thermal cycling,
+   vibration, flange thickness/rotation, bolt relaxation and externally applied loads must be considered.
+   https://technetics.com/wp-content/uploads/2021/01/MetalSealsMstrCatalog_2020-lo-res.pdf
+
+3. Technetics C-FLEX / E-FLEX / HELICOFLEX literature.
+   Used for: pressure-energized metal seal behaviour, springback, sealing load, supplier-specific groove design.
+   https://technetics.com/products/c-flex-metal-seal/
+   https://technetics.com/products/e-flex-metal-seal/
+   https://technetics.com/products/helicoflex-metal-resilient-seal/
+
+4. SAE AS568F, Aerospace Size Standard for O-Rings.
+   Reaffirmed 2026-01-29.
+   https://saemobilus.sae.org/standards/as568f-aerospace-size-standard-o-rings
+
+5. Special Metals INCONEL Alloy 718 technical bulletin.
+   Used for temperature-dependent E and Poisson's ratio basis.
+   https://www.specialmetals.com/documents/technical-bulletins/inconel/inconel-alloy-718.pdf
+
+6. ATI A286 Alloy.
+   Used for A286 identity and room-temperature strength basis.
+   https://www.atimaterials.com/products/Pages/ati-a286.aspx
+
+Engineering judgement / user-entered values must be clearly distinguished from these sources.
